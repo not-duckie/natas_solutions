@@ -24,7 +24,7 @@ Here we are injecting user controlled variable and essentially making the result
 ```
 grep -i "^" /etc/natas_webpass/natas10 #dictionary.txt
 ```
-1. # -> this in bash in is comment
+1. \# -> this in bash in is comment
 1. ^ -> this is regex and meaning any word or string that starts, essentially meaning all the words or strings.
 
 I have written a python script to do the essentially the same.
